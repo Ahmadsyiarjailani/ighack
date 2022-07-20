@@ -22,9 +22,9 @@ printf "\n"
 printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 echo
-read -p "[#] User Name : " usrnm
+read -p "[#] User Name : " ernasaarii__
 echo
-read -p "[#] Enter Passlist Location : " inspass
+read -p "[#] Enter Passlist Location : " https://instagram.com/ernasaarii__?igshid=YmMyMTA2M2Y=
 echo
 if [[ $inspass = 0 ]]                                             
 then
